@@ -1,20 +1,19 @@
 
+# Repositorio de base para Página Web
 
-# PROYECTO CSS
+Este repositorio contiene archivos HTML que te servirán de base para poder realizar tu proyecto CSS de cuatro secciones distintas de una página web. Las secciones incluidas son "Home", "Misiones", "Audiovisuales" y "Contacto".
 
-[Z4X, página del robot misionero](https://proyecto-css-z4x.netlify.app/)
+## Estructura del Repositorio
 
-Podés ver el curso completo en el siguiente video: [CSS desde cero | Curso tutorial completo gratis por Sergie Code](https://youtu.be/rTtC6Q-71qg)
+-   `home.html`: Archivo con la base estructural para la sección de "Home".
+-   `misiones.html`: Archivo con la base estructural para la sección de "Misiones".
+-   `audiovisuales.html`: Archivo con la base estructural para la sección de "Audiovisuales".
+-   `contacto.html`: Archivo con la base estructural para la sección de "Contacto".
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/proyecto-curso-css/master/assets/img/z4x.png)
+## Instrucciones de Uso
 
-Este es el repositorio de la página web que trae la increíble historia de Z4X un robot misionero, historia que nos sirvió de excusa para poner en prática algunas técnicas básicas de CSS basandonos en una web sencilla hecha con HTML en el curso anterior del canal.
+Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone https://github.com/sergiecode/estructura-proyecto1-curso-css.git en tu consola
 
-En esta página podrás encontrar:
+## Contribuciones
 
--   La historia completa de Z4X y sus misiones
--   Las misiones que realizó Z4X usando tablas
--   Fotos y videos de Z4X usando audiovisuales
--   Formulario de contacto
-
-La página ha sido creada utilizando HTML y CSS. Si eres un principiante en el mundo del desarrollo web, esta página es una excelente oportunidad para practicar tus habilidades y aprender más sobre HTML y CSS.
+Las contribuciones son bienvenidas y pueden ser enviadas a través de un pull request. Por favor, asegúrate de seguir las directrices de contribución del repositorio.
